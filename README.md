@@ -16,10 +16,6 @@ Retrofit: For API requests and networking
 Hilt: For dependency injection
 MVVM: Architecture pattern for separation of concerns
 
-Screenshots
-Below is a screenshot of the app's main interface:
-
-![Screenshot 2](https://github.com/amirsolgi1999/NewsApp/raw/main/screenshot2.png))Setup
 
 Clone the repository:
 git clone https://github.com/your-username/your-repo.git
@@ -36,5 +32,4 @@ Run the app on an emulator or physical device.
 
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-License
-This project is licensed under the MIT License.
+
