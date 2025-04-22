@@ -19,6 +19,8 @@ MVVM: Architecture pattern for separation of concerns
 Screenshots
 Below is a screenshot of the app's main interface:
 
+Screenshot_20250422_213221.png
+
 Setup
 
 Clone the repository:
