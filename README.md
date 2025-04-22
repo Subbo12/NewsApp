@@ -19,8 +19,7 @@ MVVM: Architecture pattern for separation of concerns
 Screenshots
 Below is a screenshot of the app's main interface:
 
-![Screenshot 1](https://github.com/amirsolgi1999/NewsApp/Screenshot_20250422_213221.png
-)Setup
+![Screenshot 2](https://github.com/amirsolgi1999/NewsApp/raw/main/screenshot2.png))Setup
 
 Clone the repository:
 git clone https://github.com/your-username/your-repo.git
